@@ -8,8 +8,7 @@ This project was created as part of my learning journey and demonstrates my abil
 
 ## 🌐 Live Demo
 
-👉 [Click to try the Weather App]((https://weather-app-janvi.netlify.app/))  
-> _(Replace this link with your actual Netlify or GitHub Pages URL)_
+👉 [Click to try the Weather App]([https://your-netlify-link.netlify.app](https://weather-app-janvi.netlify.app/))  
 
 ---
 
@@ -31,4 +30,5 @@ This project was created as part of my learning journey and demonstrates my abil
 | **CSS3** | Styling and layout |
 | **JavaScript (Vanilla)** | DOM manipulation + API call |
 | **OpenWeatherMap API** | Real-time weather data |
-| **Netlify ** | Deployment |
+| **Netlify** | Deployment |
+
