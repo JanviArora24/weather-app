@@ -8,7 +8,7 @@ This project was created as part of my learning journey and demonstrates my abil
 
 ## 🌐 Live Demo
 
-👉 ([Live Demo Link])](https://weather-app-janvi.netlify.app/)  
+👉 [Click to try the Weather App](https://weather-app-janvi.netlify.app/)   
 
 ---
 
